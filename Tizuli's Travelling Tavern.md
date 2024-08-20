@@ -6,6 +6,6 @@ Tizuli's travels around the lands of [[Emtar]]; either they are hosted by the ri
 ![[Ozmar Tizuli#Appearance]]
 [[Carina Tizuli]]
 ![[Carina Tizuli#Appearance]]
-
 [[Lizmun (Liz) Gelman]]
+![[Lizmun (Liz) Gelman#Appearance]]
 [[Belron Uldip]]
