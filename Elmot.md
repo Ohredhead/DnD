@@ -8,3 +8,4 @@ Seen from above the city forms a hand with the base at the inland [[Sea of Persu
 ## Central District
 [[Geller’s Floor]]![[Geller’s Floor#^cf435b]]
 [[Grand Taur]]
+![[Grand Taur#^85c665]]
