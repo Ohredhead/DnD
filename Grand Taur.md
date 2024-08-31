@@ -1,1 +1,0 @@
-The largest of the established Taurs; usually only found in large cities. Houses a variety of Taur. Always helmed by an [[Elder Mage]]. ^673fb2
