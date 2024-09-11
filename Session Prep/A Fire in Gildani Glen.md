@@ -13,8 +13,11 @@ The PCs nostrils sting with the acrid burn of smoke coiling through the trees. A
 - The mission was given by a member of the [[Selenian Adventurer’s Guild]]. A third party contract allowed to be contracted to non-members.
 	- The member is [[Delf Lerzan]], a high level member responsible for many guild contracts and a family friend of the most well connected/noble origin PC.
 	- The contract promises ==50 gold==, 10% of which must be paid in dues to the guild.
+	- They were provided with [[Fungal Mask]]
 - They know what the fungi are and that there could be a core spore in the mine.
 - They also know that the fungi are vulnerable to fire but when hit they will release spores that could infect those without masks on.
 - They started their journey from the small city [[Sintara]].
-- They know the name of the town mayor, [[Grifford Tolk]], and have a wood tablet with a guild seal on it to prove their legitimacy and to allow the free passage through the [[Mislan Woods]].
+- They know the name of the town mayor, [[Grifford Tolk]], and have a [[Tablet of Mater]] with a guild seal on it to prove their legitimacy and to allow the free passage through the [[Mislan Woods]].
 - They are somewhat familiar with the [[Mislan Woods]] as it is a common area to travel through.
+## PCP2 Info
+- They are fully familiar with the town of [[Gildani]].
