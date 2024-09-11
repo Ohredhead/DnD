@@ -1,0 +1,1 @@
+A [[Left Tenant]] of the [[Selenian Adventurer’s Guild]] and former military lieutenant in the Selenian army. Part of the noble [[Lerzan]] family.

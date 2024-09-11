@@ -1,0 +1,1 @@
+The largest adventurer’s guild in [[Selnor]].
