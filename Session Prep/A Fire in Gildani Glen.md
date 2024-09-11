@@ -1,6 +1,6 @@
 
 ## Setting
-Part of the party walks through the [[Mislan Woods]] traveling towards [[Gildani]]. ==One of the parties friends== has informed them that the small town is looking for help to clear the [[Gildani Mine]] of a fungal infestation. They have been given a set of [[Fungal Masks]] to prevent inhalation of the spores.
+Part of the party walks through outskirts of [[Mislan Woods]] traveling towards [[Gildani]]. ==One of the parties friends== has informed them that the small town is looking for help to clear the [[Gildani Mine]] of a fungal infestation. They have been given a set of [[Fungal Masks]] to prevent inhalation of the spores.
 
 Another PC is already at this scene of the fire. If they are helping or spectating will depend on their alignment. This could also be 2 PCs as long as they know each other.
 ## Hook
@@ -16,4 +16,5 @@ The PCs nostrils sting with the acrid burn of smoke coiling through the trees. A
 - They know what the fungi are and that there could be a core spore in the mine.
 - They also know that the fungi are vulnerable to fire but when hit they will release spores that could infect those without masks on.
 - They started their journey from the small city [[Sintara]].
-- They know the name of the town mayor, [[Grifford Tolk]], and have a letter with a guild seal on it to prove their legitimacy.
+- They know the name of the town mayor, [[Grifford Tolk]], and have a wood tablet with a guild seal on it to prove their legitimacy and to allow the free passage through the [[Mislan Woods]].
+- They are somewhat familiar with the [[Mislan Woods]] as it is a common area to travel through.
