@@ -10,6 +10,10 @@ The PCs nostrils sting with the acrid burn of smoke coiling through the trees. A
 - [ ] Inform the PC party w/ the masks (PCP1) who has given them the task, what they know about the task and town, what they know about the surrounding area, and have them agree who they are to each other.
 - [ ] Discuss with the solo/duo PCs (PCP2) what their motivation for being in the area is and build foundation for why they would want to help the arriving group.
 ## PCP1 Info
-- The mission was given by a member of the [[Selenian Adventurer’s Guild]]. A third party contract allowed to be contracted to non-members. The member is [[Delf Lerzan]], a high level member responsible for many guild contracts and a family friend of the most well connected/noble origin PC.
-- They know what the fungal spores likely are and that there could be a central spore.
-- 
+- The mission was given by a member of the [[Selenian Adventurer’s Guild]]. A third party contract allowed to be contracted to non-members.
+	- The member is [[Delf Lerzan]], a high level member responsible for many guild contracts and a family friend of the most well connected/noble origin PC.
+	- The contract promises ==50 gold==, 10% of which must be paid in dues to the guild.
+- They know what the fungi are and that there could be a core spore in the mine.
+- They also know that the fungi are vulnerable to fire but when hit they will release spores that could infect those without masks on.
+- They started their journey from the small city [[Sintara]].
+- They know the name of the town mayor, [[Grifford Tolk]], and have a letter with a guild seal on it to prove their legitimacy.
