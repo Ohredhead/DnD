@@ -1,6 +1,6 @@
 
 ## Setting
-Part of the party walks through outskirts of [[Mislan Woods]] traveling towards [[Gildani]]. ==One of the parties friends== has informed them that the small town is looking for help to clear the [[Gildani Mine]] of a fungal infestation. They have been given a set of [[Fungal Masks]] to prevent inhalation of the spores.
+Part of the party walks through outskirts of [[Mislan Woods]] traveling towards [[Gildani]]. ==One of the parties friends== has informed them that the small town is looking for help to clear the [[Gildani Mine]] of a fungal infestation. They have been given a set of [[Fungal Mask]]s to prevent inhalation of the spores.
 
 Another PC is already at this scene of the fire. If they are helping or spectating will depend on their alignment. This could also be 2 PCs as long as they know each other.
 ## Hook
@@ -13,11 +13,12 @@ The PCs nostrils sting with the acrid burn of smoke coiling through the trees. A
 - The mission was given by a member of the [[Selenian Adventurer’s Guild]]. A third party contract allowed to be contracted to non-members.
 	- The member is [[Delf Lerzan]], a high level member responsible for many guild contracts and a family friend of the most well connected/noble origin PC.
 	- The contract promises ==50 gold==, 10% of which must be paid in dues to the guild.
-	- They were provided with [[Fungal Mask]]
+	- They were provided with [[Fungal Mask]]s and simple wooden [[Tablet of Mater]].
 - They know what the fungi are and that there could be a core spore in the mine.
 - They also know that the fungi are vulnerable to fire but when hit they will release spores that could infect those without masks on.
 - They started their journey from the small city [[Sintara]].
 - They know the name of the town mayor, [[Grifford Tolk]], and have a [[Tablet of Mater]] with a guild seal on it to prove their legitimacy and to allow the free passage through the [[Mislan Woods]].
 - They are somewhat familiar with the [[Mislan Woods]] as it is a common area to travel through.
 ## PCP2 Info
-- They are fully familiar with the town of [[Gildani]].
+- They are fully familiar with the town of [[Gildani]] and the starting layout of the mine as they have passed their.
+- They know [[Ferite’s Company]], the dwarf company, that is contracted to manage the mine.
