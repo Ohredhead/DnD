@@ -1,5 +1,6 @@
-## Intro
-The 
+#session
+## Setting
+Part of the party 
 
 ## Hook
 The PCs nostrils sting with the acrid burn of smoke coiling through the trees. A quick check of the surroundings will clearly show the the direction of the source, as an orange hue flickers behind the thicket and trees.
