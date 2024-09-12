@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a2137d4c05da1cf8","x":140,"y":580,"width":1420,"height":300,"color":"3","type":"group","label":"Plot Points"},
+		{"id":"bdf47afc4a53748e","x":140,"y":280,"width":760,"height":240,"color":"3","type":"text","text":"![[A Fire in Gildani Glen#Setting]]"},
+		{"id":"93f0d0703539c0c3","x":160,"y":600,"width":713,"height":260,"color":"3","type":"text","text":"![[A Fire in Gildani Glen#Intro Line]]"},
+		{"id":"35165a864b391b21","x":913,"y":600,"width":600,"height":260,"color":"3","type":"text","text":"![[A Fire in Gildani Glen#Hook]]"},
+		{"id":"ebbd0e3a8e86887a","x":940,"y":100,"width":840,"height":420,"color":"2","type":"text","text":"![[A Fire in Gildani Glen#PCP1 Info]]"},
+		{"id":"ea192e14cf33d0f7","x":1800,"y":340,"width":520,"height":180,"color":"2","type":"text","text":"![[A Fire in Gildani Glen#PCP2 Info]]"},
+		{"id":"928b51830d468e62","x":160,"y":1240,"width":713,"height":320,"color":"4","type":"text","text":"![[Fungal Mask]]"},
+		{"id":"ca29c98c6c7b5613","x":160,"y":920,"width":713,"height":300,"color":"4","type":"text","text":"![[Tablet of Mater]]"}
+	],
+	"edges":[
+		{"id":"a25203d0e8c98999","fromNode":"93f0d0703539c0c3","fromSide":"right","toNode":"35165a864b391b21","toSide":"left"}
+	]
+}

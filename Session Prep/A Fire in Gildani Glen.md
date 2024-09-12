@@ -1,8 +1,12 @@
-
+[[Session 1.canvas|Session 1]]
 ## Setting
 Part of the party walks through outskirts of [[Mislan Woods]] traveling towards [[Gildani]]. ==One of the parties friends== has informed them that the small town is looking for help to clear the [[Gildani Mine]] of a fungal infestation. They have been given a set of [[Fungal Mask]]s to prevent inhalation of the spores.
 
 Another PC is already at this scene of the fire. If they are helping or spectating will depend on their alignment. This could also be 2 PCs as long as they know each other.
+## Intro Line
+The late afternoon shadows draw across the mossy wood path. It is fortunate for your weary feet that you are but 5 km out from the hamlet of [[Gildani]] at the mouth of the glen.
+Your 2 day journey from the city of Sintara has been fairly unremarkable and you sped along the path toward your goal. You have just emerged from the [[Mislan Woods]] crossing and your peculiar party is chatting amiably.
+Please describe yourself.
 ## Hook
 The PCs nostrils sting with the acrid burn of smoke coiling through the trees. A quick check of the surroundings will clearly reveal the source of the fumes as an orange hue flickers behind the thicket and trees.
 >A keen nose can detect the slight smell of sulfur infused into the smoke cloud. DC: 18 with no prior knowledge, 14 with knowledge : perception (smell). - DM note: [[Yellow Hag Spice]]
@@ -20,5 +24,5 @@ The PCs nostrils sting with the acrid burn of smoke coiling through the trees. A
 - They know the name of the town mayor, [[Grifford Tolk]], and have a [[Tablet of Mater]] with a guild seal on it to prove their legitimacy and to allow the free passage through the [[Mislan Woods]].
 - They are somewhat familiar with the [[Mislan Woods]] as it is a common area to travel through.
 ## PCP2 Info
-- They are fully familiar with the town of [[Gildani]] and the starting layout of the mine as they have passed their.
+- They are fully familiar with the hamlet of [[Gildani]] and the starting layout of the mine as they have passed their.
 - They know [[Ferite’s Company]], the dwarf company, that is contracted to manage the mine.
