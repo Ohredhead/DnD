@@ -1,0 +1,1 @@
+A patchwork building that winds around the center of town as if slowly sown together. The miss matched and weather worn inn dominates the hamlet and is the main point of rest for travelers looking to cross the [[Misty Forest]].

@@ -26,3 +26,14 @@ The PCs nostrils sting with the acrid burn of smoke coiling through the trees. A
 ## PCP2 Info
 - They are fully familiar with the hamlet of [[Gildani]] and the starting layout of the mine as they have passed their.
 - They know [[Ferite’s Company]], the dwarf company, that is contracted to manage the mine.
+## The Burning Barn
+
+## 
+
+## Meeting the Mayor
+
+## Meeting [[Tizuli's Travelling Tavern]]
+
+## Exploring [[Gildani Mine]]
+
+## Session Notes
