@@ -27,8 +27,9 @@ The PCs nostrils sting with the acrid burn of smoke coiling through the trees. A
 - They are fully familiar with the hamlet of [[Gildani]] and the starting layout of the mine as they have passed their.
 - They know [[Ferite’s Company]], the dwarf company, that is contracted to manage the mine.
 ## The Burning Barn
-As you step out of the woods you see orange and yellow flames have engulfed the upper part of a large lilaque barn. Part of the roof has already collapsed and a few in charred clothes are  
+As you step out of the woods you see orange and yellow flames have engulfed the upper part of a large lilac barn. Part of the roof has already collapsed and a group of half foot in chatted clothes have formed a bucket line to a nearby hand water pump.
 
+The 
 ## 
 
 ## Meeting the Mayor

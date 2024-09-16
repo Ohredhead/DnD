@@ -5,7 +5,7 @@ A small hamlet nestled out the outskirts of the [[Mislan Woods]]. It serves as a
 [[Ferite’s Company Outpost]]
 [[Perite’s Smithy]]
 [[Mayor’s Office]]
-[[Gilsam’s Jelly]]
+[[Gilsam’s Jelly]]![[Gilsam’s Jelly#^25c573]]
 [[Gildani Market]]![[Gildani Market#^2fdfa8]]
 [[Gildani Square]]
 [[Gildani Guard Barracks]]
