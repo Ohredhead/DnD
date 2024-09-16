@@ -27,9 +27,9 @@ The PCs nostrils sting with the acrid burn of smoke coiling through the trees. A
 - They are fully familiar with the hamlet of [[Gildani]] and the starting layout of the mine as they have passed their.
 - They know [[Ferite’s Company]], the dwarf company, that is contracted to manage the mine.
 ## The Burning Barn
-As you step out of the woods you see orange and yellow flames have engulfed the upper part of a large lilac barn. Part of the roof has already collapsed and a group of half foot in chatted clothes have formed a bucket line to a nearby hand water pump.
+As you step out of the woods you see orange and yellow flames have engulfed the upper part of a large lilac barn. Part of the roof has already collapsed and a group of half foot in chatted clothes have formed a bucket line to a nearby hand water pump. One large half orc helms the water pump.
 
-The 
+[[Gilsam Berryfold]], the owner of [[Gilsam’s Jelly]], is directing the activities and trying to get the situation under control.
 ## 
 
 ## Meeting the Mayor
