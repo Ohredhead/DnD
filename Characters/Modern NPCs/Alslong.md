@@ -1,0 +1,1 @@
+Leader of the [[Silman]] Lizzard Folk tribe living in the [[Misty Forest]] on the outskirts of the [[Mislan Woods]].
