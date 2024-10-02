@@ -1,0 +1,1 @@
+Adult Blue Dragon disguised as a mage infiltrating the [[Towers Discipline]].

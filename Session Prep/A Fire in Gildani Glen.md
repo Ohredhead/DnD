@@ -1,4 +1,4 @@
-[[Session 1.canvas|Session 1]]
+[[Gildani Canvas.canvas|Session 1]]
 ## Setting
 Part of the party walks through outskirts of [[Mislan Woods]] traveling towards [[Gildani]]. ==One of the parties friends== has informed them that the small town is looking for help to clear the [[Gildani Mine]] of a fungal infestation. They have been given a set of [[Fungal Mask]]s to prevent inhalation of the spores.
 
@@ -39,3 +39,5 @@ As you step out of the woods you see orange and yellow flames have engulfed the 
 ## Exploring [[Gildani Mine]]
 
 ## Session Notes
+### Session 1 Notes
+- [[Mandri Thunderclap]] came to help put out the fire by conjuring a large ball of water above the barn and snuffing it out.
