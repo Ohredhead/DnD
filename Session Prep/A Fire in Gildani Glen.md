@@ -41,3 +41,7 @@ As you step out of the woods you see orange and yellow flames have engulfed the 
 ## Session Notes
 ### Session 1 Notes
 - [[Mandri Thunderclap]] came to help put out the fire by conjuring a large ball of water above the barn and snuffing it out.
+- The evening half orc bartender at the bar at the entrance of the bar is [[Hempburn]]
+- The gang meets [[Lipworth Halffoot]] after [[Arna]] heals his broken foot at the barn fire.
+- [[Lipworth Halffoot]] treated the party to a round of beers and gives them each a jar of [[Gilsam Special Jam]]. They are unaware of the secondary effects of the jam.
+- 
