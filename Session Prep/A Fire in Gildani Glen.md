@@ -44,4 +44,6 @@ As you step out of the woods you see orange and yellow flames have engulfed the 
 - The evening half orc bartender at the bar at the entrance of the bar is [[Hempburn]]
 - The gang meets [[Lipworth Halffoot]] after [[Arna]] heals his broken foot at the barn fire.
 - [[Lipworth Halffoot]] treated the party to a round of beers and gives them each a jar of [[Gilsam Special Jam]]. They are unaware of the secondary effects of the jam.
+- [[Lipworth Halffoot]] and his band of [[Halffoot 5]] were ripped of by a shifty merchant [[Bumbledoor]]. They drunken race out of the bar seeking retribution!
+- [[Lia Silverforest]]![[Lia Silverforest#Session 1 Notes]]
 - 
