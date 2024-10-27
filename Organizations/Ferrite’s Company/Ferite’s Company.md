@@ -1,0 +1,1 @@
+[[Barclow Ironthumb]] is in charge of the [[Gildani]] branch of [[Ferite’s Company]].
