@@ -1,3 +1,8 @@
+---
+aliases:
+  - Fracas at Gildani Mine
+---
+
 Date: 2025-10-30
 PCs:
 	[[Arna]]
@@ -14,8 +19,8 @@ The get each get a [[Fungal Mask]], a [[Fire Bomb (small)]], and a torch.
 The Dwarves accompanying them all have a [[tower shield]], a Fire Bomb (small), torch, and an axe or hammer.
 
 The party accompanies the dwarves to [[DnD/Session Prep/Gildani Mine|Gildani Mine]], about a 2h walk from the town.
-There they encounter an fungus infested mine. As they start to clear the mine they are attacked by [[Funganite Stalker]]s, [[Funganite Thrall]]s, and [[Funganite Mycelimaner]].
+There they encounter an fungus infested mine. As they start to clear the mine they are attacked by [[Funganite Stalker]]s, [[Funganite Thrall]]s, and [[Funganite Mycelimaner]]. 3 of the dwarves go down but none die.
 
 During the battle Fontayne fails to cast his chaos orb and eventually the diamond that functions as its core is recovered by Arna. When she tosses it back to Fontayne. In a moment of greed empowered athleticism Paul Pockets leaps and intercepts the toss, taking the diamond for himself.
 
-The battle ends when the dwarves bash the [[Spore Core]] with their torches. the burning core reveals a small cave 
+The battle ends when the dwarves bash the [[Spore Core]] with their torches. The burned core crumbled and reveled an opening to a cave behind it.

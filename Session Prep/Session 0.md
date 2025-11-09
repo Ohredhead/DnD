@@ -42,6 +42,7 @@ Out-of-Game Topics
 - Disruptive topics or situations
 - Out-of-game expectations from players and from the DM
 - Required session equipment
+- Note talking and recounting
 - Alcohol & drugs
 - Mobile phone use and distractions during play
 - Commitment

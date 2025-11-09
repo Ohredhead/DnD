@@ -1,15 +1,15 @@
 {
 	"nodes":[
 		{"id":"a2137d4c05da1cf8","type":"group","x":140,"y":580,"width":2180,"height":300,"color":"3","label":"Plot Points"},
-		{"id":"928b51830d468e62","type":"text","text":"![[Fungal Mask]]","x":160,"y":1240,"width":713,"height":320,"color":"4"},
-		{"id":"ca29c98c6c7b5613","type":"text","text":"![[Tablet of Mater]]","x":160,"y":920,"width":713,"height":300,"color":"4"},
-		{"id":"49574fa1309dbe8e","x":1560,"y":920,"width":620,"height":140,"color":"5","type":"text","text":"Mission: ![[Gilsam’s Jelly#^1306d9]]"},
-		{"id":"93f0d0703539c0c3","type":"text","text":"![[A Fire in Gildani Glen#Intro Line]]","x":160,"y":600,"width":713,"height":260,"color":"3"},
+		{"id":"49574fa1309dbe8e","type":"text","text":"Mission: ![[Gilsam’s Jelly#^1306d9]]","x":1560,"y":920,"width":620,"height":140,"color":"5"},
 		{"id":"35165a864b391b21","type":"text","text":"![[A Fire in Gildani Glen#Hook]]","x":913,"y":600,"width":600,"height":260,"color":"3"},
-		{"id":"bdf47afc4a53748e","type":"text","text":"![[A Fire in Gildani Glen#Setting]]","x":140,"y":280,"width":760,"height":240,"color":"3"},
 		{"id":"ebbd0e3a8e86887a","type":"text","text":"![[A Fire in Gildani Glen#PCP1 Info]]","x":940,"y":100,"width":840,"height":420,"color":"2"},
 		{"id":"ea192e14cf33d0f7","type":"text","text":"![[A Fire in Gildani Glen#PCP2 Info]]","x":1800,"y":340,"width":520,"height":180,"color":"2"},
-		{"id":"0b544de627e78879","x":1560,"y":600,"width":620,"height":260,"color":"3","type":"text","text":"![[A Fire in Gildani Glen#The Burning Barn]]"}
+		{"id":"0b544de627e78879","type":"text","text":"![[A Fire in Gildani Glen#The Burning Barn]]","x":1560,"y":600,"width":620,"height":260,"color":"3"},
+		{"id":"bdf47afc4a53748e","type":"text","text":"![[A Fire in Gildani Glen#Setting]]","x":140,"y":280,"width":760,"height":240,"color":"3"},
+		{"id":"928b51830d468e62","type":"text","text":"![[Fungal Mask]]","x":160,"y":1240,"width":713,"height":320,"color":"4"},
+		{"id":"93f0d0703539c0c3","type":"text","text":"![[A Fire in Gildani Glen#Intro Line]]","x":160,"y":600,"width":713,"height":260,"color":"3"},
+		{"id":"ca29c98c6c7b5613","type":"text","text":"![[Tablet of Mater]]","x":164,"y":910,"width":713,"height":300,"color":"4"}
 	],
 	"edges":[
 		{"id":"a25203d0e8c98999","fromNode":"93f0d0703539c0c3","fromSide":"right","toNode":"35165a864b391b21","toSide":"left"},
