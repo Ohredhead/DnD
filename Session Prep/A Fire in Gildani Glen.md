@@ -1,10 +1,10 @@
-[[Session 1 -Arrival in Gildani.canvas|Session 1]]
+[[Gildani Canvas.canvas|Session 1]]
 ## Setting
-Part of the party walks through outskirts of [[Mislan Woods]] traveling towards [[Gildani]]. ==One of the parties friends== has informed them that the small town is looking for help to clear the [[DnD/Locations/Gildani/Gildani Mine]] of a fungal infestation. They have been given a set of [[Fungal Mask]]s to prevent inhalation of the spores.
+Part of the party walks through outskirts of [[Mislan Woods]] traveling towards [[Gildani]]. ==One of the parties friends== has informed them that the small town is looking for help to clear the [[Gildani Mine]] of a fungal infestation. They have been given a set of [[Fungal Mask]]s to prevent inhalation of the spores.
 
 Another PC is already at this scene of the fire. If they are helping or spectating will depend on their alignment. This could also be 2 PCs as long as they know each other.
 ## Intro Line
-The late afternoon shadows draw across the mossy wood path. It is fortunate for your weary feet that you are but 5 km out from the hamlet of [[Gildani]] at the mouth of the glen.Het 
+The late afternoon shadows draw across the mossy wood path. It is fortunate for your weary feet that you are but 5 km out from the hamlet of [[Gildani]] at the mouth of the glen.
 Your 2 day journey from the city of Sintara has been fairly unremarkable and you sped along the path toward your goal. You have just emerged from the [[Mislan Woods]] crossing and your peculiar party is chatting amiably.
 Please describe yourself.
 ## Hook
@@ -30,17 +30,13 @@ The PCs nostrils sting with the acrid burn of smoke coiling through the trees. A
 As you step out of the woods you see orange and yellow flames have engulfed the upper part of a large lilac barn. Part of the roof has already collapsed and a group of half foot in chatted clothes have formed a bucket line to a nearby hand water pump. One large half orc helms the water pump.
 
 [[Gilsam Berryfold]], the owner of [[Gilsam’s Jelly]], is directing the activities and trying to get the situation under control.
+## 
 
-The [[halfing]] employees have formed a bucket line, with a large half orc manning the pump. If the [[PC]]s want to help Gilsam they are asked to help with the bucket line and/or go to town to get help.
-
-Inside the barn jam and jelly jars line the walls and shelves near the entrance. Toward the back is clearly the manufacturing operation; stoves, pots, decanters, and the like are organized in a 3 neat production lines. Though they are now alight. Some of the [[halfing]]s are moving the jars out of the barn while those in the bucket line are trying to put out the flames.
-
-If the [[PC]]s try to go to town to recruit help the encounter an excited and nervous crowd guiding [[Mandri the Mage]] to the burnin barn. He is grumpy from having been disturbed from his study, though it is also his general demeanor. Begrudgingly he will contour an orb of water and snuff out the flames. Interactions with him will be met with little interest and rebuffed. Before leaving he will remind [[Gilsam Berryfold]] that he is owed payment.
 ## Meeting the Mayor
 
 ## Meeting [[Tizuli's Travelling Tavern]]
 
-## Exploring [[DnD/Locations/Gildani/Gildani Mine]]
+## Exploring [[Gildani Mine]]
 
 ## Session Notes
 ### Session 1 Notes
@@ -50,4 +46,4 @@ If the [[PC]]s try to go to town to recruit help the encounter an excited and ne
 - [[Lipworth Halffoot]] treated the party to a round of beers and gives them each a jar of [[Gilsam Special Jam]]. They are unaware of the secondary effects of the jam.
 - [[Lipworth Halffoot]] and his band of [[Halffoot 5]] were ripped of by a shifty merchant [[Bumbledoor]]. They drunken race out of the bar seeking retribution!
 - [[Lia Silverforest]]![[Lia Silverforest#Session 1 Notes]]
-
+- 
