@@ -1,4 +1,4 @@
-An ancient headpiece crafted for [[Empress Kennits]] of [[Tarcia]]. It allowed her to consolidate her realm after her father's death and brother's refusal to acknowledge her as the rightful heir. Its abilities to charm people and boost magical ability are matched only by its ability to maintain concentration independently on a spell.
+An ancient headpiece crafted for [[Empress Kennits]] of [[Tarcia]]. It allowed her to consolidate her realm after her father's death and brother's refusal to acknowledge her as the rightful heir. Its abilities to charm people and enhance magical ability are matched only by its ability to maintain concentration independently on a spell.
 
 It's mistrillin threads are woven through the hair and anchored through piercings on the ear, or some cases horns. Its owners will often latch miniature baubles onto it, which can be summoned as the original piece themself.
 

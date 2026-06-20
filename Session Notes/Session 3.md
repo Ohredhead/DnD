@@ -4,7 +4,7 @@ aliases:
 Date: 2025-10-30
 PCs:
 	[[Arna]]
-	[[Fontayne]]
+	[[Fontayne Riverwood]]
 	[[Clarence]]
 
 As [[Arna]] uncovers the opening in the cliff side at the top of [[DnD/Locations/Gildani/Gildani Mine|Gildani Mine]] she looks back at Fontayne and [[Paul Pockets]] in time to see Paul dissaperate into thing air, along with Fontaine’s diamond.

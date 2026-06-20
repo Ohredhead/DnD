@@ -12,6 +12,4 @@ Notably, the city is always bathed in the light of the [[Eternal Sun]].
 
 ## Organizations
 - [[The Denarii]], or [[Order of Silver]], are the political and religious leaders of [[Sintara]] and the city. They are organized as a Merchant Republic, where the Merchant Houses vie for authority and wealth; one begetting the other.
-
-new shit
 	

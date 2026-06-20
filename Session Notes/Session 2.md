@@ -9,7 +9,7 @@ Date: 2025-10-30
 PCs:
 	[[Arna]]
 	[[Paul Pockets]]
-	[[Fontayne]]
+	[[Fontayne Riverwood]]
 
 Paul was retconned into the story in this session.
 

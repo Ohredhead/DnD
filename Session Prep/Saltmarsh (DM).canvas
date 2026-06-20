@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"e627381e2a96ec88","type":"text","text":"1)[[City Gate]]","x":560,"y":20,"width":120,"height":60},
+		{"id":"00d9009ced5ddd9f","x":41,"y":336,"width":679,"height":484,"type":"text","text":"```leaflet\nimage: IMG_0075.jpeg\n```"}
+	],
+	"edges":[]
+}

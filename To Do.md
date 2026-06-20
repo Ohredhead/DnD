@@ -1,0 +1,66 @@
+# Urgent
+- [ ] Insert statblock for Lizardfolk
+- [ ] Correct Lizardfolk name?
+- [ ] Create statblock for Lizardfolk Shaman
+- [ ] Create statblock for Lizardfolk Bezerker
+- [x] Add creatures to statblock register
+	- [x] Amphisbaena
+	- [x] Bard
+	- [x] Bodak
+	- [x] Bullywug Croaker
+	- [x] Bullywug Royal
+	- [x] Deep Scion
+	- [x] Drowned Ascetic
+	- [x] Drowned Assassin
+	- [x] Drowned Blade
+	- [x] Drowned Master
+	- [x] Fathomer
+	- [x] Giant Coral Snake
+	- [x] Giant Sea Eel
+	- [x] Harpy Matriarch
+	- [x] Juvenile Kraken
+	- [x] Koalinth
+	- [x] Koalinth Sergeant
+	- [x] Kraken Priest
+	- [x] Kysh (Triton)
+	- [x] Living Iron Statue
+	- [x] Lizardfolk Commoner
+	- [x] Lizardfolk Render
+	- [x] Lizardfolk Scaleshield
+	- [x] Lizardfolk Subchief
+	- [x] Locathah
+	- [x] Locathah Hunter
+	- [x] Maw Demon
+	- [x] Maw of Sekolah
+	- [x] Merfolk Salvager
+	- [x] Minotaur Living Crystal Statue
+	- [x] Monstrous Peryton
+	- [x] Mr. Dory
+	- [x] Oceanus (Sea Elf)
+	- [x] Pirate Bosun
+	- [x] Pirate Captain
+	- [x] Pirate Deck Wizard
+	- [x] Pirate First Mate
+	- [x] Riptide Priest
+	- [x] Sahuagin Blademaster
+	- [x] Sahuagin Champion
+	- [x] Sahuagin Coral Smasher
+	- [x] Sahuagin Deep Diver
+	- [x] Sahuagin Hatchling Swarm
+	- [x] Sahuagin High Priestess
+	- [x] Sahuagin Wave Shaper
+	- [x] Sanbalet
+	- [x] Sea Lion
+	- [x] Shell Shark
+	- [x] Skeletal Alchemist
+	- [x] Skeletal Juggernaut
+	- [x] Skeletal Swarm
+	- [x] Skum
+	- [x] Storm Giant Quintessent
+	- [x] Swarm of Rot Grubs
+	- [x] Thousand Teeth
+	- [x] Vampiric Jade Statue
+# Med Term
+ - [ ] 
+# Long Term
+ - [ ] 
