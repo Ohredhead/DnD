@@ -1,7 +1,8 @@
 # Urgent
 - [ ] Insert statblock for Lizardfolk
 - [ ] Correct Lizardfolk name?
-- [ ] Create statblock for Lizardfolk Shaman
+- [x] Create statblock for Lizardfolk Shaman
+- [ ] Add Imp statblock
 - [ ] Create statblock for Lizardfolk Bezerker
 - [x] Add creatures to statblock register
 	- [x] Amphisbaena
