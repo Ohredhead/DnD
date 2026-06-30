@@ -1,3 +1,8 @@
+---
+aliases:
+  - scaleshield
+---
+A [[Lizardfolk]]
 ```statblock
 name: Lizardfolk Scaleshield
 size: Medium

@@ -1,67 +1,34 @@
 # Urgent
-- [ ] Insert statblock for Lizardfolk
-- [ ] Correct Lizardfolk name?
+- [x] Insert statblock for Lizardfolk
+- [x] Correct Lizardfolk name?
 - [x] Create statblock for Lizardfolk Shaman
-- [ ] Add Imp statblock
+- [x] Add Imp statblock
 - [ ] Create statblock for Lizardfolk Bezerker
-- [x] Add creatures to statblock register
-	- [x] Amphisbaena
-	- [x] Bard
-	- [x] Bodak
-	- [x] Bullywug Croaker
-	- [x] Bullywug Royal
-	- [x] Deep Scion
-	- [x] Drowned Ascetic
-	- [x] Drowned Assassin
-	- [x] Drowned Blade
-	- [x] Drowned Master
-	- [x] Fathomer
-	- [x] Giant Coral Snake
-	- [x] Giant Sea Eel
-	- [x] Harpy Matriarch
-	- [x] Juvenile Kraken
-	- [x] Koalinth
-	- [x] Koalinth Sergeant
-	- [x] Kraken Priest
-	- [x] Kysh (Triton)
-	- [x] Living Iron Statue
-	- [x] Lizardfolk Commoner
-	- [x] Lizardfolk Render
-	- [x] Lizardfolk Scaleshield
-	- [x] Lizardfolk Subchief
-	- [x] Locathah
-	- [x] Locathah Hunter
-	- [x] Maw Demon
-	- [x] Maw of Sekolah
-	- [x] Merfolk Salvager
-	- [x] Minotaur Living Crystal Statue
-	- [x] Monstrous Peryton
-	- [x] Mr. Dory
-	- [x] Oceanus (Sea Elf)
-	- [x] Pirate Bosun
-	- [x] Pirate Captain
-	- [x] Pirate Deck Wizard
-	- [x] Pirate First Mate
-	- [x] Riptide Priest
-	- [x] Sahuagin Blademaster
-	- [x] Sahuagin Champion
-	- [x] Sahuagin Coral Smasher
-	- [x] Sahuagin Deep Diver
-	- [x] Sahuagin Hatchling Swarm
-	- [x] Sahuagin High Priestess
-	- [x] Sahuagin Wave Shaper
-	- [x] Sanbalet
-	- [x] Sea Lion
-	- [x] Shell Shark
-	- [x] Skeletal Alchemist
-	- [x] Skeletal Juggernaut
-	- [x] Skeletal Swarm
-	- [x] Skum
-	- [x] Storm Giant Quintessent
-	- [x] Swarm of Rot Grubs
-	- [x] Thousand Teeth
-	- [x] Vampiric Jade Statue
+- [ ] Update [[Saltmarsh]] entries with correct history and [[Sintara]] references
+- [ ] Revise the [[Scarlet Brotherhood]]… [[Cult of the Dragon]]?
+- [ ] Input [[Danger at Dunwater]] adventure
+- [ ] Update info with outcome of [[The Sinister Secret of Saltmarsh]]
+- [ ] Check if [[Oceanus]] is a Friend from the Deep
+- [ ] Build point tracker for relationship with the lizardfolk [[Saltmarsh (DM).canvas]]
+- [ ] Create Lair Map for Lizardfolk [[Danger at Dunwater]]
+- [ ] Update [[Lizardfolk Lair]] map references
+	- [ ] [[Danger at Dunwater#Deal Breakers]]
+	- [ ] [[Lizardfolk Lair#By Sea]]
+	- [ ] [[Lizardfolk Lair#By Land]]
+- [ ] Link [[Lizardfolk]] entries
+- [ ] Link [[Sahuagin]] entries
+- [ ] Link [[bullywug]] entries
+- [ ] Update [[Green slime]] entry
+- [ ] Create and link personalities for the lizardfolk [[Danger at Dunwater#Personalities]]
+- [ ] Add die prep notes for [[Saltmarsh (DM).canvas]] (ex. personality determination for Lizardfolk)
 # Med Term
- - [ ] 
+ - [ ] Dungeon of [[Tower of Zenopus]]
+ - [ ] Update [[Dreadwood]] encounter table with internal links
+ - [ ] Update [[Drowned Forest]] encounter table with internal links
+ - [ ] Update [[Hool Marshes]] encounter table with internal links
+ - [ ] Update [[Cardile Ocean]] encounter tables with internal links
+ - [ ] Update boats and ships with internal links
+ - [ ] Update [[orc]] entry
+ - [ ] [[Blight]] statblock
 # Long Term
  - [ ] 

@@ -1,4 +1,4 @@
-A type of [[Bullywug]].
+A type of [[bullywug]].
 ```statblock
 name: Bullywug Croaker
 size: Medium

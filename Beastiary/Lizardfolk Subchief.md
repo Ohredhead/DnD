@@ -1,3 +1,4 @@
+A [[Lizardfolk]]
 ```statblock
 name: Lizardfolk Subchief
 size: Medium

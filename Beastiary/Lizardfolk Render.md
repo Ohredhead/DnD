@@ -1,3 +1,4 @@
+A [[Lizardfolk]]
 ```statblock
 name: Lizardfolk Render
 size: Medium

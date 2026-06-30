@@ -1,2 +1,3 @@
 ```statblock
+creature: Imp
 ```

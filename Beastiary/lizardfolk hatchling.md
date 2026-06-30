@@ -1,0 +1,5 @@
+---
+aliases:
+  - hatchling
+---
+A [[Lizardfolk]]

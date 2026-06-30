@@ -1,0 +1,18 @@
+formulas:
+  Untitled: ""
+  Locations: file.asLink(file.name.slice(3))
+properties:
+  file.name:
+    displayName: Locations
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.name.startsWith("SM")
+    order:
+      - formula.Locations
+    columnSize: {}
+    markers: number
+    cardSize: 260
+    imageAspectRatio: 1.2

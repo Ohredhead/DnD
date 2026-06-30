@@ -1,0 +1,10 @@
+---
+tags:
+  - Saltmarsh
+---
+# Description
+The folk of [[Saltmarsh]] point to [[Seaton]] as an example of the fate they want to avoid. For years, [[Seaton]] was about twice as large as [[Saltmarsh]] and enjoyed prosperous fishing and shipping industries. When [[King Kimbertos Skotti]] turned his attention south to deal with the [[Sea Princes]], his admirals chose [[Seaton]] as the location for an important military port. Today, [[Seaton]] has been transformed from a robust fishing town into a drab fortress. [[Seaton]]'s harbor is heavily fortified, and a large garrison of naval ships, infantry, and cavalry serves as the primary defense point for the region.
+
+[[Duke Marik Feldren]] (CN male human [[knight]]) rules over the town in his capacity of governor of the southern province that includes [[Seaton]]. [[King Kimbertos Skotti|King Skotti]] actually granted [[Duke Marik Feldren|Marik]]'s older brother, the war hero [[Obertus Feldren]], governorship of the province. But the affable duke's reign was short-lived, for he fell ill and died a year later. The title fell to [[Duke Marik Feldren|Marik]], a sheltered hothead eager to surpass his brother's legend. He considers the natives of the region as cowards who hid away in their isolated villages while the north suffered its losses. He further believes that his brother, who had a genuine fondness for the local fishers and traders, was laid low by traitors in service to the [[Sea Princes]].
+
+[[Duke Marik Feldren|Duke Feldren]] intends to raise taxes to fund an aggressive expansion of the royal navy and launch raids against the [[Sea Princes]]' domain. The [[Scarlet Brotherhood]], for its part, is delighted by [[Duke Feldren]]'s plans to keep the pot stirred. If the opportunity arises, the [[Scarlet Brotherhood|Brotherhood]] might plant evidence of plots against him to feed the duke's suspicion of the locals and, with luck, spark civil unrest that tempts the [[Sea Princes]] into making incursions into the area.

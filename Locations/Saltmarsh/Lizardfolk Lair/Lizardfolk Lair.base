@@ -1,0 +1,14 @@
+formulas:
+  Untitled: file.asLink(file.name.slice(4))
+properties:
+  formula.Untitled:
+    displayName: Area
+views:
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - file.name.startsWith("LfL")
+    order:
+      - formula.Untitled
+    columnSize: {}

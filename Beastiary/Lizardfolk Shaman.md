@@ -1,3 +1,4 @@
+A [[Lizardfolk]]
 ```statblock
 name: Lizardfolk Shaman
 size: Medium

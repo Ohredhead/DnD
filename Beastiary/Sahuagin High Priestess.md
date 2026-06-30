@@ -1,3 +1,8 @@
+---
+aliases:
+  - Sahuagin Priestess
+---
+
 ```statblock
 name: Sahuagin High Priestess
 size: Medium

@@ -1,0 +1,3 @@
+```statblock
+creature: Vampire Spawn
+```
